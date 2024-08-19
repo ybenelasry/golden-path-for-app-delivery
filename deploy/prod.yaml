@@ -21,4 +21,4 @@ metadata:
 description: prod
 requireApproval: true
 gke:
-  cluster: projects/project-id-placeholder/locations/us-central1/clusters/prod
+  cluster: projects/jaber-406114/locations/us-central1/clusters/prod
